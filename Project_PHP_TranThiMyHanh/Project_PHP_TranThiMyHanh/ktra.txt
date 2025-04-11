@@ -1,0 +1,10 @@
+tìm lỗi sai và sửa (25 dòng)
+ktra giay 15p
+bai tập cuối kì:
+web: 6 chức năng 6 đđ
+- đăng nhập, đăng ký, đăng xuất: 3 trường tên đn, mk va nhap llai -> gọi tới control
+- hiển thị loại(ma loai, tenloaitenloai) sản phẩm(): 
+- danh sách sản phẩm: loại sp, dssp
+- click vào sp nào thì loại sp nhảy theo
+- tìm kiếm theo tên sản phẩmphẩm
+chương 10: up host 4 đđ (bắt buộc): file wordword
